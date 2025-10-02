@@ -1,0 +1,7 @@
+{
+  "name": "Fuzzy Excel Search",
+  "description": "An application to import an Excel file and perform fuzzy searches on its content. It includes a barcode/QR code scanner to populate the search field.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
